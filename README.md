@@ -16,13 +16,13 @@
 
 ### Project Goals:
 
-1. **Profit and Loss (P&L) Reports:** Created P&L reports by fiscal years and P&L reports by fiscal months.
-2. **P&L Reports by Markets:** Generated P&L reports categorized by markets.
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://1drv.ms/b/s!AqY5OmSWfbnEtm6GiyyGNCQM6aw8?e=7XJ9Az) and [P&L reports by fiscal months](https://1drv.ms/b/s!AqY5OmSWfbnEtm8dk92xZUnD3QXN?e=aG6aon).
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://1drv.ms/b/s!AqY5OmSWfbnEtnAqWkIeCdTGkL_k?e=JuPgqV).
 3. **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
 **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical periods, and establishing the foundation for budgeting and forecasting.
 
-**Reports' Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
+**Report's Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
 ## Technical Skills:
 
@@ -38,6 +38,7 @@
 2. Designing user-centric reports with empathy.
 3. Optimizing report generation through meticulous fine-tuning.
 4. Developing a systematic approach to creating report-building plans.
-5. Find the detailed project reports here.
+   
+Find the detailed project reports here.
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!

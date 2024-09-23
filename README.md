@@ -3,8 +3,8 @@
 
 ### Project Goals:
 
- 1.  **Customer Performance Report**: Created a detailed report to assess customer performance.
- 2.  **Market Performance Comparison**: Conducted a thorough analysis comparing market performance against sales targets.
+ 1.  **Customer Performance Report**: Created a detailed [report](https://1drv.ms/b/s!AqY5OmSWfbnEtnV5OsRLVCV5Qdvl?e=gSTqZs) to assess customer performance.
+ 2.  **Market Performance Comparison**: Conducted a thorough analysis comparing [market performance](https://1drv.ms/b/s!AqY5OmSWfbnEtmivaB_mCs-pZ-0F?e=eVQW3l) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
@@ -24,20 +24,20 @@
 
 **Reports' Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
-## Technical & Soft Skills:
+## Technical Skills:
 
-Proficient in ETL methodology (Extract, Transform, Load)
-Skillful in creating date tables using Power Query
-Capable of deriving fiscal months and quarters
-Establishing data model relationships with Power Pivot
-Adept at integrating supplementary data into existing data models
-Skilled in using DAX to create calculated columns
+1. Proficient in ETL methodology (Extract, Transform, Load)
+2. Skillful in creating date tables using Power Query
+3. Capable of deriving fiscal months and quarters
+4. Establishing data model relationships with Power Pivot
+5. Adept at integrating supplementary data into existing data models
+6. Skilled in using DAX to create calculated columns
 
 ## Soft Skills:
-Comprehensive understanding of Sales & Finance Reports.
-Designing user-centric reports with empathy.
-Optimizing report generation through meticulous fine-tuning.
-Developing a systematic approach to creating report-building plans.
-Find the detailed project reports here.
+1. Comprehensive understanding of Sales & Finance Reports.
+2. Designing user-centric reports with empathy.
+3. Optimizing report generation through meticulous fine-tuning.
+4. Developing a systematic approach to creating report-building plans.
+5. Find the detailed project reports here.
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!

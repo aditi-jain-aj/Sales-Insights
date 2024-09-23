@@ -39,6 +39,6 @@
 3. Optimizing report generation through meticulous fine-tuning.
 4. Developing a systematic approach to creating report-building plans.
    
-Find the detailed project reports here.
+Find the detailed project reports [here](https://github.com/aditi-jain-aj/Sales-Insights.git).
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!

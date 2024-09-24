@@ -3,8 +3,8 @@
 
 ### Project Goals:
 
- 1.  **Customer Performance Report**: Created a detailed [report](https://1drv.ms/b/s!AqY5OmSWfbnEtnV5OsRLVCV5Qdvl?e=gSTqZs) to assess customer performance.
- 2.  **Market Performance Comparison**: Conducted a thorough analysis comparing [market performance](https://1drv.ms/b/s!AqY5OmSWfbnEtmivaB_mCs-pZ-0F?e=eVQW3l) against sales targets.
+ 1.  **Customer Performance Report**: Created a detailed [report](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Sales%20Analytics%20Report/AtliQ%20Hardwares%20Report-%20Customer%20Performance%20Report.pdf) to assess customer performance.
+ 2.  **Market Performance Comparison**: Conducted a thorough analysis comparing [market performance](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Sales%20Analytics%20Report/AtliQ%20Hardwares%20Report-%20Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
@@ -16,8 +16,8 @@
 
 ### Project Goals:
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/finance_analytics/AtliQ%20Hardwares%20Report-%20P%26L%20(FY%26%20Market).pdf) and [P&L reports by fiscal months](https://1drv.ms/b/s!AqY5OmSWfbnEtm8dk92xZUnD3QXN?e=aG6aon).
-2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://1drv.ms/b/s!AqY5OmSWfbnEtnAqWkIeCdTGkL_k?e=JuPgqV).
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Finance%20Analytics%20Report/AtliQ%20Hardwares%20Report-%20P%26L%20(Fiscal_Year).pdf) and [P&L reports by fiscal months](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Finance%20Analytics%20Report/AtliQ%20Hardwares%20Report-%20P%26L%20(Month).pdf).
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/aditi-jain-aj/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Finance%20Analytics%20Report/AtliQ%20Hardwares%20Report-%20P%26L%20(FY%26%20Market).pdf).
 3. **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
 **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical periods, and establishing the foundation for budgeting and forecasting.
